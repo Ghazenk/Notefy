@@ -1,4 +1,4 @@
-# practice_isar
+# Notify
 
 A new Flutter project.
 
